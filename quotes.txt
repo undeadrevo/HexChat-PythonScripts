@@ -1,3 +1,17 @@
+Your behaviour is not conducive to the desired environment.
+%k, you suck, you know that?
+%c would be better without you, %k.
+%u has snuffed out your pathetic e-life. Be grateful that %u made it quick and painless.
+%k, you need to take the time to think about what you've done. Come back in a while and try it again.
+%k, you shitfuck, get out.
+%k, why do you corrupt %c with your retardation?
+%k, please, go commit sudoku.
+%k, go take a long walk off a short pier.
+%k, go feed the sharks. I'm sure they're so starving your stupidity won't affect them.
+Hey, %k. Fuck you.
+%k has been redistributed to the world.
+May we have a moment of silence for %k?
+%k has returned to his bretheren.
 Get rekt!
 N-n-n-nope.
 Get the hell off my lawn!
@@ -8,10 +22,9 @@ rip %k.
 %k was fragged by %u.
 I bet you hate me right now, %k.
 %k is ded.
-Hey, hey hey! Screw you!
+Hey, hey, hey! Screw you!
 killall -s SIGKILL %k
 %k has died.
-Your behavior is not conducive to the desired environment.
 sudo dd if=/dev/null of=/dev/%k
 THOU SHALT DIE!
 It's all ogre now.
@@ -20,7 +33,7 @@ Don't be rubberneckin'!
 KO!
 %k fainted!
 YOU FAILED!
-And you dead.
+And you're dead.
 %k IS DEAD. TIME PARADOX.
 "But... The future refused to change."
 Your time has passed.
@@ -51,3 +64,4 @@ Are you fucking around?
 Well then, why do I care?
 What are you, stupid?
 You're all talk.
+YOU SHALL NOT PASS!
